@@ -1,10 +1,10 @@
 # 1 Introduction
 COVID-19 (acronym of CoronaVIrus Disease 19) or acute respiratory disease from SARS-CoV-2 , is an infectious respiratory disease caused by the SARS-CoV-2 registered virus belonging to the coronavirus family. In a tragic period like what we are experiencing and where the motto is "stay at home", we think everyone is welcome to have a moment of leisure. 
 
-Therefore Covid19 is a social platform token whose sole purpose is to brighten your days and make your home days soothing. 
-The token was born mainly to be used within the social platform of discord thanks to the use of what are considered tip bots. However, further uses of the token are being developed as you can see from the following pages.
+Therefore Covid19 Is a social token whose sole purpose is linking work to rewards and making more business in advertising fields, in payment systems (we are planning for a hedging) without stealing anyone with staking or Gambling services. However, further uses of the token are being developed.
 
 Stay home, Stay active and Enjoy yourself.
+
 
 # 2	Disclaimer
 Below all our Disclaimers:
