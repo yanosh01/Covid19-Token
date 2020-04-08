@@ -25,8 +25,7 @@ There are many tokens with a similar name like COVID or Corona but COVID19 (CVD)
 
 ## Strategies
 
-There is no real strategy in this nonprofit association. The only purpose already described is to brighten your days.
-There are a lot of ideas on what we can do with the CVD token, but we don't want to go too far and we don't want to give false expectations. We will most likely develop a game for the use of tokens whose purpose will be to entertain you.
+There are a lot of ideas on what we can do with the CVD token, but we don't want reveal all our strategies except to link work to rewards and making more business in advertising fields
 
 
 # 3	Token Information
