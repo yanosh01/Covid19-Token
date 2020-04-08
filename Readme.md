@@ -93,4 +93,4 @@ c) Another part is kept in the Wallets of the disocrd users through the bot call
 # Future purposes of the token
 
 
-The development of a game using the CVD token is on the roadmap
+The development of a advertising fields/game using the CVD token is on the roadmap
